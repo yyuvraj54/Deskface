@@ -15,7 +15,7 @@ We can add title and caption into our selected wallpaper (alredy Installed/Impor
 ![App Screenshot](Data//SystemOs//Screenshot.png)
 
 
-After set wallpaer
+After set wallpaper
 ![App Screenshot](Data//SystemOs//window.png)
 
 ## About Developer
