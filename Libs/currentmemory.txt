@@ -1,0 +1,7 @@
+1440x900
+#ff566b
+Arial
+140
+#ba5bff
+Kannada MN
+50
