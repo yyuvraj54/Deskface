@@ -26,7 +26,7 @@ Design and Developed by Yuvraj Singh Yadav
 
 
 
-- [Gmail](yyuvraj54@gmail.com)
+
 - [Github](https://github.com/yyuvraj54)
 
 
